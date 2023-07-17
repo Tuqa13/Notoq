@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "groovy-student-381718",
+  "private_key_id": "7eae8eefa0c9dbb3c18f4f7e08443c357b8e2706",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjsJ7C8Vv5SlT7\nh97VcyLw2Mg7wOCV7kHqkTT3wGbAm+Hor41Qo98GjYJt4VHqnGqbctXiptjdFfPm\nbWWaHH+CRFFB9gxlPszskkFZtIVbpAGefje0I4WEyVdY7Hh/BhwSxNMnKbDi0763\n4t/2KB7qBUgWt50hMtKr8rO+mqgwy3QdOmmBxfqPjXW3lQlP7VfFM1UBlm2B1WYJ\nzXPLhX7OG7nE9D/fyLYevKxJAX2RwYDgMBJ9do9s0lDc8yUpliE9azZyWa6GRpmS\nLfCR1OKDgk3ecgE1WZlU9xXhg7lX4oQou/ZR5aOfuhhKIHYtugF29oRHrwhyw6ec\nfEBE/Qh5AgMBAAECggEAJnfH36VMCYpL7W6xUfVEZVh0ugIqZWHAMOleCsk2/JXF\noeK7sZNJQud3mu4ES7/ll9GFbUXrmg1iK6lS4sRGvOzkMb2qjRKUoxX98KBpZK9m\nyAH+gkGEy79rXRT5flSHvWtu+fmkvbGoVNum6VjlZvbFybzt2tLwSoN3dVgwJYMR\nvaDv0edQktgDC6rqdvkZlfhyT8zt0RBi3Pq0YAH9snu/unYgxu0HA1rRMHG4lrCI\nFvZaFCOuOBW4DaAVXKb3DEjdCZMgYGkoZv9mcmMDGjKteQtxJ576CJDOjFx9vh1T\nuoMTDZDMoVdU+DoxGKxMzrK1cdvxSxgTLLcp0PBntwKBgQDne/3RIXSggoUdodhe\nFUbSh4PVxCekQv4xiuatLQfjCiv1YnWtMNB/QlbQZCG3mjg2eZO7EchRmjfA7klR\njmpxZyjcz8A344RRsH+NDK90icJT6A8ZIeahQoNroOt8mTS8oBFSLcYU1pszvujA\ngsIxwWf5cG7OXDEqFHAWHuxKWwKBgQC1BpW9EkjiI4/c9M02r/++viVwuZ5Do9B/\n2CjAAigtcnuJNTG34/AlPEqoHwj+pgvO7zv1pK4+bMnISFokYCqR44IY+B++O763\n8WAcCJEbA02CAgGh+QBvKpB3+h4mFE39qC9IHugQETwbz2fbhJCulyODMZVtcMOa\nakwZhnWouwKBgGCx+qSRRRaHbvOh16/1U1A+K2PwPF7xXR102EceuFyusw4dwupF\nqdJ+86S5Lxxy32hiAMPz+amcsg11fEsFIpGcdgVHAxRVhcBZ6e4Rjnkv0m0aUrQ8\n5QoXrq4W2keB9/WTJ6kcVdH+k3ZaGP/Rny0JjVU1EhRBjof1YZzb7fhhAoGAALIx\nyTRUy2nPl83pLBipJxacFj7geOocVyGBpptbhDE4gGKP+mEJ/1qn/tV/t1r0GKua\n02r6sIrCi96bWiB0iXMSgP4TQSwBo7tt3y25QR1WIvXXA8RtWAAV5iA0FXlmg18u\nL1zPD6DBVmoJwDJWTBWQsWRzaqRQXDukZ0S5FxkCgYEAj4SBbcmV1EzVp+Q/hf/J\nayOr2q1zxMfusQH5MmCNdX4UUpY/Zxoe04B770Z7LbK+Sk2hddwzp8jaiWOTQJpl\nTcgdDGh67CAe48XHiJqtdrNIBQrEl7QplUf1sNe9IcZcrr4JGE9DYIDDgG3kb3pq\nwIqVUy4A5uN9quWn/4Gh4p8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yara-project@groovy-student-381718.iam.gserviceaccount.com",
+  "client_id": "106485862579030651728",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yara-project%40groovy-student-381718.iam.gserviceaccount.com"
+}

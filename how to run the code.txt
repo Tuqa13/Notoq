@@ -1,0 +1,6 @@
+First you need the following to be installed :
+flutter, dart, android studio, xampp, mysql workbench , composer
+
+1- start xampp, run the first 2 options (apache , mysql)
+**make sure to replace the TTS file inside  "\xampp\htdocs" and make sure to change the port of the mysql if you already installed it on the device
+2- run the flutter code inside android studio by uploading the project called Notoq inside Android studio ,you must use emulator or real phone in order to work properly.

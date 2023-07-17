@@ -1,0 +1,17 @@
+{
+    "require": {
+        "google/cloud": "^0.203.2",
+        "google/cloud-text-to-speech": "*",
+        "php-http/client-common": "^2.6",
+        "php-http/message": "^1.14",
+        "guzzlehttp/guzzle": "^7.5",
+        "google/cloud-storage": "*",
+        "google/cloud-vision": "*",
+        "google/cloud-document-ai": "*",
+        "google/protobuf": "^3.17",
+        "spatie/pdf-to-text": "^1.52",
+        "slim/slim": "4.*",
+        "google/cloud-speech": "*"
+
+    }
+}
